@@ -383,7 +383,7 @@ int mx, int my-ширина и длина изображения
 
 
 #### Литература
-https://ru.wikipedia.org/wiki/BMP#BITMAPFILEHEADER
-http://math.ivanovo.ac.ru/dalgebra/Khashin/gr/bmp/bmp.html
-https://habrahabr.ru/post/142818/
+######https://ru.wikipedia.org/wiki/BMP#BITMAPFILEHEADER
+######http://math.ivanovo.ac.ru/dalgebra/Khashin/gr/bmp/bmp.html
+######https://habrahabr.ru/post/142818/
 
